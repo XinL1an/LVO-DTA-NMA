@@ -1,4 +1,4 @@
-# Bayesian DTA-NMA Code Candidate
+# Bayesian DTA-NMA Code for NCCT-Based AI LVO Triage
 
 This folder contains a cleaned RStudio-ready code package for the Bayesian diagnostic test accuracy network meta-analysis.
 
