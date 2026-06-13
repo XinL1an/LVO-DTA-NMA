@@ -19,9 +19,8 @@ The MCMC settings in the script are the full analysis settings used for reproduc
 
 - `Bayesian_DTA_NMA_RStudio.R`: standalone RStudio script for the full analysis workflow.
 - `data/`: original analysis input CSV files.
-- `outputs/`: generated after the script is run.
 
-The script regenerates the primary Bayesian DTA-NMA, covariate meta-regression, SA-1 to SA-5 scenario sensitivity analyses, and the half-normal prior sensitivity analysis. SA-5 excludes the Sunwoo et al. (2026) US cohort.
+The script regenerates the primary Bayesian DTA-NMA, covariate meta-regression, SA-1 to SA-5 scenario sensitivity analyses, and the half-normal prior sensitivity analysis. SA-5 excludes the Sunwoo et al. (2026) US cohort. Half-normal prior sensitivity analysis, corresponding to SA-6.
 
 ## Requirements
 
